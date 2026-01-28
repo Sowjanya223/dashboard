@@ -6,21 +6,21 @@ Telecom Customer Churn Analysis Dashboard
 A dynamic, interactive Power BI dashboard designed to analyze customer churn behavior in a telecom company by comparing active customers with churned customers. The dashboard helps identify patterns in demographics, services, contracts, and billing that influence customer retention and churn.
 
 ## 3.Tech Stack
-* ▶️Power BI Desktop – Data visualization and dashboard development
-* ▶️Power Query – Data cleaning and transformation
-* ▶️DAX (Data Analysis Expressions) – Calculated measures for churn   metrics, averages, and comparisons
-* ▶️Data Modeling – Relationship building between customer demographics, services, and billing tables
+* Power BI Desktop – Data visualization and dashboard development
+* Power Query – Data cleaning and transformation
+* DAX (Data Analysis Expressions) – Calculated measures for churn   metrics, averages, and comparisons
+* Data Modeling – Relationship building between customer demographics, services, and billing tables
 
 ## 4.Features / Highlights
 ### Business Problem:
 Telecom companies face significant revenue loss due to customer churn. Understanding who is leaving and why is critical for improving retention strategies and reducing customer acquisition costs.
 ### Goal of the Dashboard
 To identify key differences between retained customers and churned customers based on:
--  1)Demographics
--  2)Service usage
--  3)Contract type
--  4)Payment method
--  5)Tenure and billing behavior
+-  Demographics
+-  Service usage
+-  Contract type
+-  Payment method
+-  Tenure and billing behavior
 ### Walkthrough of Key Visuals (Briefly)
 - Customer vs Churner Profile Comparison
 Side-by-side view of 7,043 customers and 1,869 churned customers to quickly identify behavioral differences.
