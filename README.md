@@ -1,5 +1,5 @@
 # dashboard
-1.Project Title / Headline
+1.Project Title / Headline:
 Telecom Customer Churn Analysis Dashboard
 
 2.Short Description
