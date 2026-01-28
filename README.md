@@ -40,5 +40,5 @@ Churners have higher average monthly charges but lower total charges, suggesting
 Reveals that customers with short tenure, monthly contracts, higher monthly charges, and fiber optic services are more likely to churn, enabling targeted retention actions.
 
 6. Screenshots :
-    Dashboard Preveiw :
+    Dashboard Preveiw :https://github.com/Sowjanya223/dashboard/blob/main/snapshot_of%20_dashboard.png
 
