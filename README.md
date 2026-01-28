@@ -16,11 +16,11 @@ A dynamic, interactive Power BI dashboard designed to analyze customer churn beh
 Telecom companies face significant revenue loss due to customer churn. Understanding who is leaving and why is critical for improving retention strategies and reducing customer acquisition costs.
 ### Goal of the Dashboard
 To identify key differences between retained customers and churned customers based on:
-                   -  1)Demographics
-                   -  2)Service usage
-                   -  3)Contract type
-                   -  4)Payment method
-                   -  5)Tenure and billing behavior
+-  1)Demographics
+-  2)Service usage
+-  3)Contract type
+-  4)Payment method
+-  5)Tenure and billing behavior
 ### Walkthrough of Key Visuals (Briefly)
 - Customer vs Churner Profile Comparison
 Side-by-side view of 7,043 customers and 1,869 churned customers to quickly identify behavioral differences.
