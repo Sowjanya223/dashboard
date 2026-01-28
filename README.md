@@ -1,8 +1,10 @@
 # dashboard
 1.Project Title / Headline:
+
 Telecom Customer Churn Analysis Dashboard
 
 2.Short Description
+
 A dynamic, interactive Power BI dashboard designed to analyze customer churn behavior in a telecom company by comparing active customers with churned customers. The dashboard helps identify patterns in demographics, services, contracts, and billing that influence customer retention and churn.
 
 3.Tech Stack
